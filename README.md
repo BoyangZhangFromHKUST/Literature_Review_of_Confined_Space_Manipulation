@@ -14,3 +14,5 @@
 
 :star:[Unknown Object Retrieval in Confined Space through Reinforcement Learning with Tactile Exploration](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10611541)
 
+[Single-Motor-Driven (4 + 2)-Fingered Robotic Gripper Capable of Expanding the Workable Space in the Extremely Confined Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10752385)
+
