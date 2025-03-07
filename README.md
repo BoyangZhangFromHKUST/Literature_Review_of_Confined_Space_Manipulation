@@ -16,3 +16,10 @@
 
 [Single-Motor-Driven (4 + 2)-Fingered Robotic Gripper Capable of Expanding the Workable Space in the Extremely Confined Environment](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10752385)
 
+[Multimaterial Soft Gripper Design With Dual-Mode Pinches for Grasping in Confined Spaces](https://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=10599478)
+
+
+
+
+
+
